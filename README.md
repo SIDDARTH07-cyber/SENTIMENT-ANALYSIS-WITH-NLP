@@ -88,5 +88,9 @@ This project can be extended by exploring more advanced models such as Support V
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/fc7226d8-f914-4621-98c8-96646b767e2d)
+
+![Image](https://github.com/user-attachments/assets/dcbc0933-36a9-48dc-b1e1-2f69745953b9)
+
 
 
